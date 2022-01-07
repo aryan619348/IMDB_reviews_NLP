@@ -7,6 +7,7 @@ The goal is to create a "Embedding" for the reviews, here words and associated w
 
 The reviews will be of two categories positive and negative
 
+The vecs.tsv and meta.tsv can be downloaded and uploaded to https://projector.tensorflow.org/ to see the 3d plot 
 
 Sample results:
 
