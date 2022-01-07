@@ -8,5 +8,5 @@ The goal is to create a "Embedding" for the reviews, here words and associated w
 The reviews will be of two categories positive and negative
 
 
-Some results:
+Sample result:
 ![image](https://user-images.githubusercontent.com/46323314/148559981-a8f28193-47a5-44dc-87d3-7355616219f6.png)
